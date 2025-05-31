@@ -1,6 +1,10 @@
+![Screenshot 2025-05-31 082847](https://github.com/user-attachments/assets/2a745014-6ae8-4fb8-acba-c05104f50d52)
+![Screenshot 2025-05-31 082918](https://github.com/user-attachments/assets/643702dc-47aa-425f-9b79-f22b6d834f0f)
+![Screenshot 2025-05-31 083002](https://github.com/user-attachments/assets/d841338c-a8c7-4743-9b8f-3e7b81924efe)
+![Screenshot 2025-05-31 083025](https://github.com/user-attachments/assets/2b40908b-469b-4715-9c1c-899d88bb5de1)
 
 # Tic-Tac-Toe Android App
-A beginner-friendly, interactive Tic-Tac-Toe game built with Android Studio using Java. This app allows two players to enter their names, play the classic game on a responsive grid, and displays the winner with an option to restart the game. This project is a great starting point for those looking to learn Android app development, UI navigation, and basic game logic implementation.
+* A beginner-friendly, interactive Tic-Tac-Toe game built with Android Studio using Java. This app allows two players to enter their names, play the classic game on a responsive grid, and displays the winner with an option to restart the game. This project is a great starting point for those looking to learn Android app development, UI navigation, and basic game logic implementation.
 ---
 ## Table of Contents
 - [Introduction](#introduction)
@@ -18,8 +22,8 @@ A beginner-friendly, interactive Tic-Tac-Toe game built with Android Studio usin
 - [License](#license)
 - [Contact](#contact)
 ---
-## Introduction
-This project implements a classic **Tic-Tac-Toe** game for Android, inspired by the detailed tutorial at [androidknowledge.com](https://androidknowledge.com/tic-tac-toe-app-in-android-studio/). The app is designed for beginners to understand fundamental Android concepts such as activity navigation, UI elements, event handling, and dialog creation. It features a user-friendly interface, player name input, real-time win detection, and an intuitive restart mechanism.
+### Introduction
+* This project implements a classic **Tic-Tac-Toe** game for Android, inspired by the detailed tutorial at [androidknowledge.com](https://androidknowledge.com/tic-tac-toe-app-in-android-studio/). The app is designed for beginners to understand fundamental Android concepts such as activity navigation, UI elements, event handling, and dialog creation. It features a user-friendly interface, player name input, real-time win detection, and an intuitive restart mechanism.
 ---
 ## Features
 - **Player Name Input:** The app starts by prompting both players to enter their names, adding a personalized touch to the game.
@@ -137,9 +141,9 @@ git clone https://github.com/yourusername/tic-tac-toe-android.git
 - [Material Design Guidelines](https://material.io/design)
 ---
 ## License
-This project is open source and available under the [MIT License](LICENSE).
+* This project is open source and available under the [MIT License](LICENSE).
 ---
 ## Contact
-For questions, suggestions, or contributions, please open an issue or reach out via "pranjalgurdawasi@gmail.com".
+* For questions, suggestions, or contributions, please open an issue or reach out via "pranjalgurdawasi@gmail.com".
 ---
-**Enjoy playing Tic-Tac-Toe and happy coding!**
+* Enjoy playing Tic-Tac-Toe and happy coding!**
